@@ -1,9 +1,9 @@
 {
-  "name": "mediapipe-demo-app",
-  "displayName": "mediapipe-demo-app",
+  "name": "webview-demo-app",
+  "displayName": "webview-demo-app",
   "expo": {
-    "name": "mediapipe-demo-app",
-    "slug": "mediapipe-demo-app",
+    "name": "webview-demo-app",
+    "slug": "webview-demo-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
